@@ -1,1 +1,1 @@
-# Cpp_Inheritance
+# C++ Inheritance - OOP
